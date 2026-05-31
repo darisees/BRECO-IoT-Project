@@ -1,0 +1,38 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# Arduino / ESP32 build files
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Environment and secret files
+.env
+secrets.h
+config.local.h
+
+# Backup files
+*.bak
+*.old
+*.backup
+
+# Node / dependency folders if used later
+node_modules/
+
+# InfluxDB / database local files if added later
+*.db
+*.sqlite
+*.sqlite3
