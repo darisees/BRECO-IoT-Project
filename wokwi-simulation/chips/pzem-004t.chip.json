@@ -1,0 +1,10 @@
+{
+  "name": "pzem-004t",
+  "author": "Juan Pablo Basso",
+  "pins": [
+    "RX",
+    "TX",
+    "GND",
+    "VCC"
+  ]
+}

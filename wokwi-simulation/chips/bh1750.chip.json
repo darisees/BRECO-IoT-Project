@@ -1,0 +1,15 @@
+{
+  "name": "BH1750",
+  "author": "Gatul",
+  "pins": ["SCL", "SDA", "", "GND", "VCC", "ADDR"],
+  "controls": [
+    {
+      "id": "LightLevel",
+      "label": "Light Level",
+      "type": "range",
+      "min": 1,
+      "max": 10000,
+      "step": 1
+    }
+  ]
+}
