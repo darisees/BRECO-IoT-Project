@@ -13,6 +13,9 @@ This folder contains visual documentation of the BRECO Wokwi simulation.
 - `dashboard-preview.png`  
   Screenshot of the Blynk dashboard or any dashboard preview used in the project.
 
+- `legacy-files-before-restructure.png`  
+  Shows the original Wokwi files that were previously uploaded in the root repository before being moved into a cleaner folder structure.
+
 ## Purpose
 
 Screenshots are included to provide visual proof of the simulation result and to make the repository easier to understand for reviewers, lecturers, or competition judges.
