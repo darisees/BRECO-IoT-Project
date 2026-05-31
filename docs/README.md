@@ -4,8 +4,8 @@ This folder contains supporting documentation for the BRECO project.
 
 ## Contents
 
-- `TEKRA2026_IoT & Embedded System Challenge_Duo Trio HaFaFa.pdf`  
-  The main worksheet document that explains the project background, problem identification, system architecture, data flow design, technology selection, and implementation scenario.
+`TEKRA2026_IoT & Embedded System Challenge_Duo Trio HaFaFa.pdf`  
+The main worksheet document that explains the project background, problem identification, system architecture, data flow design, technology selection, and implementation scenario.
 
 ## Purpose
 
