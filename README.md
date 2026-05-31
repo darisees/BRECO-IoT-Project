@@ -149,6 +149,16 @@ BRECO-IoT-Project/
 │       ├── pzem-004t.chip.c
 │       └── pzem-004t.chip.json
 │
+├── legacy-original-files/
+│   ├── README.md
+│   ├── sketch.ino
+│   ├── diagram.json
+│   ├── libraries.txt
+│   ├── bh1750.chip.c
+│   ├── bh1750.chip.json
+│   ├── pzem-004t.chip.c
+│   └── pzem-004t.chip.json
+│
 └── screenshots/
     ├── README.md
     ├── wokwi-preview.png
@@ -175,6 +185,10 @@ Contains custom Wokwi chip files used to simulate components that are not fully 
 ### `screenshots/`
 
 Contains visual documentation of the simulation, such as the Wokwi circuit preview, Serial Monitor output, and dashboard preview.
+
+### `legacy-original-files/`
+
+Contains the original Wokwi simulation files that were previously uploaded before the repository was reorganized. This folder is kept as a historical archive, while the maintained simulation version is located in `wokwi-simulation/`.
 
 ---
 
