@@ -8,6 +8,12 @@ These files are kept as an archive to preserve the development history of the BR
 
 The purpose of this folder is to document the original uploaded files before repository cleanup and restructuring.
 
+## Visual Proof
+
+The screenshot below shows the original Wokwi files that were previously located in the root directory before being moved into this legacy archive.
+
+![Legacy files before restructuring](../screenshots/legacy-files-before-restructure.jpeg)
+
 ## Archived Files
 
 - `sketch.ino` - Original ESP32 firmware file
