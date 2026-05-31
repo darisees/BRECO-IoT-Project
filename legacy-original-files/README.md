@@ -12,7 +12,7 @@ The purpose of this folder is to document the original uploaded files before rep
 
 The screenshot below shows the original Wokwi files that were previously located in the root directory before being moved into this legacy archive.
 
-![Legacy files before restructuring](../screenshots/legacy-files-before-restructure.jpeg)
+![Legacy files before restructuring](../screenshots/legacy-files-before-restructure.png)
 
 ## Archived Files
 
