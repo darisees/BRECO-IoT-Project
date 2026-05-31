@@ -1,6 +1,7 @@
 #define BLYNK_TEMPLATE_ID "TMPL6vjXFS8in"
 #define BLYNK_TEMPLATE_NAME "TEKRA 2026"
 #define BLYNK_AUTH_TOKEN "-QGSw3E8HqxuITsVrYx6oGR-4KgNybB6"
+//#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 // =====================================================
 // LIBRARY
